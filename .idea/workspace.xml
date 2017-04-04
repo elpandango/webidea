@@ -37,8 +37,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/dist/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6675978">
-                  <caret line="238" column="18" selection-start-line="238" selection-start-column="18" selection-end-line="238" selection-end-column="18" />
+                <state vertical-scroll-proportion="0.23743017">
+                  <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -61,7 +61,7 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6783115">
+                <state vertical-scroll-proportion="1.8165939">
                   <caret line="826" column="24" selection-start-line="826" selection-start-column="24" selection-end-line="826" selection-end-column="24" />
                   <folding />
                 </state>
@@ -121,8 +121,8 @@
         <option value="$PROJECT_DIR$/library/img/arrow-left-big.svg" />
         <option value="$PROJECT_DIR$/library/img/arrow-right-big.svg" />
         <option value="$PROJECT_DIR$/dist/css/flexslider.css" />
-        <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
       </list>
     </option>
   </component>
@@ -489,18 +489,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
+    <entry file="file://$PROJECT_DIR$/src/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6675978">
-          <caret line="238" column="18" selection-start-line="238" selection-start-column="18" selection-end-line="238" selection-end-column="18" />
+        <state vertical-scroll-proportion="1.8165939">
+          <caret line="826" column="24" selection-start-line="826" selection-start-column="24" selection-end-line="826" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/style.css">
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6783115">
-          <caret line="826" column="24" selection-start-line="826" selection-start-column="24" selection-end-line="826" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.23743017">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>
