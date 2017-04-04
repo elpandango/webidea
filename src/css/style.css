@@ -1,57 +1,94 @@
 @font-face {
-    font-family: "EdwardianScript";
-    src: url("/library/fonts/EdwardianScript.ttf") format("truetype");
+    font-family: 'EdwardianScriptITC';
+    src: url('/library/fonts/EdwardianScriptITC/EdwardianScriptITC.eot?#iefix') format('embedded-opentype'),
+    url('/library/fonts/EdwardianScriptITC/EdwardianScriptITC.woff') format('woff'),
+    url('/library/fonts/EdwardianScriptITC/EdwardianScriptITC.ttf')  format('truetype'),
+    url('/library/fonts/EdwardianScriptITC/EdwardianScriptITC.svg#EdwardianScriptITC') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
+
 @font-face {
-    font-family: "CenturyGothic";
-    src: url("/library/fonts/CenturyGothic.ttf") format("truetype");
+    font-family: 'CenturyGothic';
+    src: url('/library/fonts/CenturyGothic/CenturyGothic.eot?#iefix') format('embedded-opentype'),
+    url('/library/fonts/CenturyGothic/CenturyGothic.woff') format('woff'),
+    url('/library/fonts/CenturyGothic/CenturyGothic.ttf')  format('truetype'),
+    url('/library/fonts/CenturyGothic/CenturyGothic.svg#CenturyGothic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
+
+
 @font-face {
-    font-family: "LucidaGrande";
-    src: url("/library/fonts/LucidaGrandeRegular.ttf") format("truetype");
+    font-family: 'LucidaGrande';
+    src: url('/library/fonts/LucidaGrande/LucidaGrande.eot?#iefix') format('embedded-opentype'),
+    url('/library/fonts/LucidaGrande/LucidaGrande.woff') format('woff'),
+    url('/library/fonts/LucidaGrande/LucidaGrande.ttf')  format('truetype'),
+    url('/library/fonts/LucidaGrande/LucidaGrande.svg#LucidaGrande') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
+
+
 @font-face {
-    font-family: "LucidaGrande";
-    src: url("/library/fonts/LucidaGrandeBold.ttf") format("truetype");
+    font-family: 'LucidaGrande';
+    src: url('/library/fonts/LucidaGrande-Bold/LucidaGrande-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/library/fonts/LucidaGrande-Bold/LucidaGrande-Bold.woff') format('woff'),
+    url('/library/fonts/LucidaGrande-Bold/LucidaGrande-Bold.ttf')  format('truetype'),
+    url('/library/fonts/LucidaGrande-Bold/LucidaGrande-Bold.svg#LucidaGrande-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
 }
 
-@font-face {
-    font-family: "FuturaBt";
-    src: url("/library/fonts/FuturaBtLight.ttf") format("truetype");
-    font-weight: 300;
-    font-style: normal;
-}
 
 @font-face {
-    font-family: "FuturaBt";
-    src: url("/library/fonts/FuturaBtRegular.ttf") format("truetype");
+    font-family: 'FuturaBT-Light';
+    src: url('/library/fonts/FuturaBT-Light/FuturaBT-Light.eot?#iefix') format('embedded-opentype'),
+    url('/library/fonts/FuturaBT-Light/FuturaBT-Light.woff') format('woff'),
+    url('/library/fonts/FuturaBT-Light/FuturaBT-Light.ttf')  format('truetype'),
+    url('/library/fonts/FuturaBT-Light/FuturaBT-Light.svg#FuturaBT-Light') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
+
 @font-face {
-    font-family: "FuturaBt";
-    src: url("/library/fonts/FuturaBtBold.ttf") format("truetype");
-    font-weight: bold;
+    font-family: 'FuturaBT';
+    src: url('/library/fonts/FuturaBT-Medium/FuturaBT-Medium.eot?#iefix') format('embedded-opentype'),
+    url('/library/fonts/FuturaBT-Medium/FuturaBT-Medium.woff') format('woff'),
+    url('/library/fonts/FuturaBT-Medium/FuturaBT-Medium.ttf')  format('truetype'),
+    url('/library/fonts/FuturaBT-Medium/FuturaBT-Medium.svg#FuturaBT-Medium') format('svg');
+    font-weight: normal;
     font-style: normal;
 }
+
+
+
 @font-face {
-    font-family: "Myriad Pro";
-    src: url("/library/fonts/MyriadProRegular.otf") format("opentype");
-    font-weight: bold;
+    font-family: 'FuturaBT-Bold';
+    src: url('/library/fonts/FuturaBT-Bold/FuturaBT-Bold.eot?#iefix') format('embedded-opentype'),
+    url('/library/fonts/FuturaBT-Bold/FuturaBT-Bold.woff') format('woff'),
+    url('/library/fonts/FuturaBT-Bold/FuturaBT-Bold.ttf')  format('truetype'),
+    url('/library/fonts/FuturaBT-Bold/FuturaBT-Bold.svg#FuturaBT-Bold') format('svg');
+    font-weight: normal;
     font-style: normal;
 }
+
+
+@font-face {
+    font-family: 'MyriadPro';
+    src: url('/library/fonts/MyriadPro-Regular/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('/library/fonts/MyriadPro-Regular/MyriadPro-Regular.otf')  format('opentype'),
+    url('/library/fonts/MyriadPro-Regular/MyriadPro-Regular.woff') format('woff'),
+    url('/library/fonts/MyriadPro-Regular/MyriadPro-Regular.ttf')  format('truetype'),
+    url('/library/fonts/MyriadPro-Regular/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 .left {
     float: left;
@@ -111,7 +148,7 @@ header.main .logo {
     height: 130px;
 }
 header.main .logo .logo-top {
-    font-family: EdwardianScript;
+    font-family: EdwardianScriptITC;
     font-size: 72px;
     line-height: 36px;
     color: #c7a900;
@@ -159,7 +196,7 @@ header.main .text-line .link {
     line-height: 25px;
     text-transform: uppercase;
     color: #ffffff;
-    font-family: FuturaBt;
+    font-family: FuturaBT-Light;
     font-weight: 300;
     text-decoration: none;
     padding: 7px 15px;
@@ -210,7 +247,7 @@ header.menu .bottom:before {
 }
 
 .navbar li a {
-    font-family: FuturaBt;
+    font-family: FuturaBT-Light;
     font-weight: 300;
     text-transform: uppercase;
     font-size: 14px;
@@ -297,7 +334,7 @@ header.menu .bottom:before {
 }
 
 .block-2 .big-text {
-    font-family: FuturaBt;
+    font-family: FuturaBT-Light;
     font-weight: 300;
     text-transform: uppercase;
     color: #ffffff;
@@ -840,9 +877,13 @@ footer.copyrights a:hover {
         top: 0;
         right: 0;
     }
+    header.main .logo {
+        left: 0;
+    }
     header.main .logo .logo-top,
     header.main .logo .logo-bottom {
         text-align: center;
+        left: 0;
     }
     footer.copyrights .left, footer.copyrights .right {
         float: none;
